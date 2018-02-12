@@ -1,4 +1,4 @@
-# Team 1
+# Team 2
 
 ---
 
@@ -7,4 +7,5 @@
 * Progress description/updates
 
 _Image Description_
-![Image](/Assets/DRL_Logo.jpg)
+
+![Image](./Assets/Team_2/DRL_Logo.jpg)

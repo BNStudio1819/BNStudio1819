@@ -7,4 +7,5 @@
 * Progress description/updates
 
 _Image Description_
-![Image](/Assets/DRL_Logo.jpg)
+
+![Image](./Assets/Team_1/DRL_Logo.jpg)
