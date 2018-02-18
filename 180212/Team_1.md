@@ -1,11 +1,12 @@
-# Team 1
+# Team 1 
+# Bhavatarini / Taeyoon / Atahan 
 
 ---
 
-* Progress description/updates
-* Progress description/updates
-* Progress description/updates
+* Case study of games
+* Initial study of games - 8 types
+* Further study into chain reaction and metaballs
 
-_Image Description_
+_Team Chee-Z_
 
-![Image](./Assets/Team_1/DRL_Logo.jpg)
+![Image](./Assets/Team_1/team_logo.jpg)
